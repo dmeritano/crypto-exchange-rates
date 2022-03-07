@@ -13,7 +13,10 @@ GBP => Pound sterling
 USD => United States dollar
 
 
+Using: Styled Components, CSS Modules, Hooks, Custom Hooks, useEffect for API Consumption (with async-away)
+
+
 App created with **Vite** 
 * Vite (is a build tool that aims to provide a faster and leaner development experience for modern web projects)
 
-Styled Components, CSS Modules, Hooks, Custom Hooks, useEffect for API Consumption (with async-away)
+
