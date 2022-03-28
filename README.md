@@ -2,6 +2,8 @@
 
 ### React App -  Single Page Application
 
+Project created to learn REACT
+
 Get the price of the top 20 cryptocurrencies obtained from the cryptocompare.com API. You can choose from the following currencies to display the value:
 
 AUD => Australian dollar
